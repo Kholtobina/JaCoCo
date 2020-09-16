@@ -21,7 +21,6 @@
             <version>5.4.2</version>
             <scope>test</scope>
         </dependency>
-
         <dependency>
             <groupId>org.jacoco</groupId>
             <artifactId>org.jacoco.agent</artifactId>
@@ -84,5 +83,3 @@
         </plugins>
     </build>
 </project>
-
-
